@@ -1,6 +1,5 @@
-Stay Connected, Stay Zen. Join Zen Chat Today!
-
 # ![Logo](https://zenchatapp.vercel.app/favicon.png) Zen Chat
+## Stay Connected, Stay Zen. Join Zen Chat Today!
 
 Zen Chat is an open-source communication platform that aims to build a safer, faster, and more stable way for everyone to experience their chatting experience.
 
